@@ -1,6 +1,6 @@
-"""实验一：Windows事件处理机制，窗体应用程序消息发送与接收处理"""
+***实验一：Windows事件处理机制，窗体应用程序消息发送与接收处理***
 
-1、Windows事件处理机制实验
+**1、Windows事件处理机制实验**
 （1）准备工作：新建解决方案，在解决方案下新建一个项目, 其输出类型为WPF窗体应用(.NET Framework)；
 （2）定义事件参数类：例如定义火警事件参数类；
 （3）定义事件触发者：例如定义火警发起者；
@@ -23,7 +23,7 @@
 （2）事件响应者识别事件参数信息，处理事件并打印到文本框。
 	
  
- 2、Windows消息发送与接收处理实验
+ **2、Windows消息发送与接收处理实验**
 （1）准备工作：新建解决方案，在解决方案下新建四个项目.其中第一个项目为CopyDataStruct，其输出类型为类库;第二个项目为SenderA，其输出类型为windows窗体应用(.NET Framework)或WPF应用(.NET Framework),第三个项目为ReceiverB, 其输出类型为windows窗体应用(.NET Framework)，第四个项目为ReceiverC, 其输出类型为WPF窗体应用(.NET Framework)；
 （2）定义消息类型和消息结构：在项目CopyDataStruct中定义消息类型，定义消息结构体；
 （3）实现消息发送者程序A：引用CopyDataStruct，声明User32.dll中的函数FindWindow，声明User32.dll中的函数SendMessage，定义窗体布局和控件元素，实现消息的封装及消息发送；
