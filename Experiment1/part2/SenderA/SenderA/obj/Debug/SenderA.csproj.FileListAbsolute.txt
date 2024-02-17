@@ -1,0 +1,41 @@
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\bin\Debug\SenderA.exe.config
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\bin\Debug\SenderA.exe
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\bin\Debug\SenderA.pdb
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.Form1.resources
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.exe
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.pdb
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\bin\Debug\CopyDataStruct.dll
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\bin\Debug\CopyDataStruct.pdb
+C:\Users\LENOVO\Desktop\windows\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.CopyComplete
+D:\source\C#\work2\SenderA\SenderA\bin\Debug\SenderA.exe.config
+D:\source\C#\work2\SenderA\SenderA\bin\Debug\SenderA.exe
+D:\source\C#\work2\SenderA\SenderA\bin\Debug\SenderA.pdb
+D:\source\C#\work2\SenderA\SenderA\bin\Debug\CopyDataStruct.dll
+D:\source\C#\work2\SenderA\SenderA\bin\Debug\CopyDataStruct.pdb
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.AssemblyReference.cache
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.SuggestedBindingRedirects.cache
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.Form1.resources
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.Properties.Resources.resources
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.GenerateResource.cache
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.CoreCompileInputs.cache
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.csproj.CopyComplete
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.exe
+D:\source\C#\work2\SenderA\SenderA\obj\Debug\SenderA.pdb
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\bin\Debug\SenderA.exe.config
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\bin\Debug\SenderA.exe
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\bin\Debug\SenderA.pdb
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\bin\Debug\CopyDataStruct.dll
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\bin\Debug\CopyDataStruct.pdb
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.csproj.AssemblyReference.cache
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.Form1.resources
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.Properties.Resources.resources
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.csproj.GenerateResource.cache
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.csproj.CoreCompileInputs.cache
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.csproj.CopyComplete
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.exe
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\SenderA\SenderA\obj\Debug\SenderA.pdb
