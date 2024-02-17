@@ -1,0 +1,10 @@
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\bin\Debug\ex4_yba.exe.config
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\bin\Debug\ex4_yba.exe
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\bin\Debug\ex4_yba.pdb
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.csproj.AssemblyReference.cache
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.Form1.resources
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.Properties.Resources.resources
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.csproj.GenerateResource.cache
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.csproj.CoreCompileInputs.cache
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.exe
+C:\Users\龙骑士的电脑\source\repos\ex4_yba\ex4_yba\obj\Debug\ex4_yba.pdb
