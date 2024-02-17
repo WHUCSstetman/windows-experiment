@@ -1,0 +1,54 @@
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe.config
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.pdb
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.exe
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.pdb
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.pdb
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.ReceiverB.resources
+C:\Users\LENOVO\Desktop\windows\work2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.dll
+D:\source\C#\work2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe.config
+D:\source\C#\work2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe
+D:\source\C#\work2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.pdb
+D:\source\C#\work2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.dll
+D:\source\C#\work2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.pdb
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.AssemblyReference.cache
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.SuggestedBindingRedirects.cache
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.ReceiverB.resources
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.Properties.Resources.resources
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.GenerateResource.cache
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CoreCompileInputs.cache
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CopyComplete
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.exe
+D:\source\C#\work2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.pdb
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe.config
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.pdb
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.dll
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.pdb
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.AssemblyReference.cache
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.ReceiverB.resources
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.Properties.Resources.resources
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.GenerateResource.cache
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CoreCompileInputs.cache
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CopyComplete
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.exe
+C:\Users\21520\Documents\WeChat Files\wxid_6pn7x9ocqq0312\FileStorage\File\2023-10\EX\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.pdb
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe.config
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.exe
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\bin\Debug\ReceiverB.pdb
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.dll
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\bin\Debug\CopyDataStruct.pdb
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.AssemblyReference.cache
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.ReceiverB.resources
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.Properties.Resources.resources
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.GenerateResource.cache
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CoreCompileInputs.cache
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.csproj.CopyComplete
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.exe
+C:\Users\龙骑士的电脑\source\repos\EX2\ReceiverB\ReceiverB\obj\Debug\ReceiverB.pdb
