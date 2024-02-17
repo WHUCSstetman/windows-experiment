@@ -1,0 +1,4 @@
+LIBRARY "CreateDLL"
+EXPORTS
+calculateFactorial @1
+calculateSub @2
