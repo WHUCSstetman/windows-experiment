@@ -1,0 +1,14 @@
+D:\XiaFei\CSharp\CallCOM\CreateCOM\bin\Debug\CreateCOM.dll
+D:\XiaFei\CSharp\CallCOM\CreateCOM\bin\Debug\CreateCOM.pdb
+D:\XiaFei\CSharp\CallCOM\CreateCOM\obj\Debug\CreateCOM.csproj.CoreCompileInputs.cache
+D:\XiaFei\CSharp\CallCOM\CreateCOM\obj\Debug\CreateCOM.dll
+D:\XiaFei\CSharp\CallCOM\CreateCOM\obj\Debug\CreateCOM.pdb
+D:\XiaFei\CSharp\CallCOM\CreateCOM\bin\Debug\CreateCOM.tlb
+D:\XiaFei\CSharp\CallCOM\CreateCOM\obj\Debug\CreateCOM.csproj.AssemblyReference.cache
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\bin\Debug\CreateCOM.dll
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\bin\Debug\CreateCOM.pdb
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\obj\Debug\CreateCOM.csproj.AssemblyReference.cache
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\obj\Debug\CreateCOM.csproj.CoreCompileInputs.cache
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\obj\Debug\CreateCOM.dll
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\obj\Debug\CreateCOM.pdb
+C:\Users\龙骑士的电脑\source\repos\CallCOM\CreateCOM\bin\Debug\CreateCOM.tlb
