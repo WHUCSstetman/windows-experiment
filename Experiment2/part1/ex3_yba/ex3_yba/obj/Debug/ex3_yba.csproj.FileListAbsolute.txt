@@ -1,0 +1,10 @@
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.csproj.AssemblyReference.cache
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.MainForm.resources
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.Properties.Resources.resources
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.csproj.GenerateResource.cache
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.csproj.CoreCompileInputs.cache
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\bin\Debug\ex3_yba.exe.config
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\bin\Debug\ex3_yba.exe
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\bin\Debug\ex3_yba.pdb
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.exe
+C:\Users\龙骑士的电脑\source\repos\ex3_yba\ex3_yba\obj\Debug\ex3_yba.pdb
